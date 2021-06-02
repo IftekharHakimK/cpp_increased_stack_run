@@ -1,0 +1,2 @@
+> g++ -O2 -std=c++11 -Wall -Wl,--stack=268435456 a.cpp -o a.exe
+> a.exe
