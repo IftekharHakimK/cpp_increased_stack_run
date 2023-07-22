@@ -7,4 +7,5 @@ Say your filename is ``a.cpp``. First compile to create executable (named as ``a
 If your input filename is ``input.txt`` and intended output filename is ``output.txt``, 
 ```
 > a.exe < input.txt > output.txt
+
 ```
